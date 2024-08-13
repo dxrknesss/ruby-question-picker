@@ -13,3 +13,71 @@ How do SOLID principles relate to code maintainability and scalability?
 What is an abstract class? How does it differ from an interface?
 Explain the concept of "is-a" vs "has-a" relationships in OOP.
 What are design patterns? Can you name and briefly explain a few common ones?
+What is Class in Object-oriented programming?
+A class is a blueprint to create objects.
+What is Object in OOP?
+Created from classes, represent a particular state of the class.
+What is the abstraction in Java?
+An OOP technique to hide complexities from clients.
+An object-oriented technique to reuse code and functionalities.
+An oop way to hide data so that you can change it later without impacting others.
+provides flexibility to choose different codes to run at runtime.
+What is the difference between Polymorphism, Overloading, and Overriding?
+Why Java doesn’t support Multiple Inheritance in Java?
+When do you use interface and abstract class in Java?(Answer)
+What is the difference between static and dynamic binding in Java?
+What is the difference between abstraction and polymorphism in Java?
+Why Java doesn’t support operator overloading?
+What is an abstract class in Java?
+What is an interface in Java?
+What is the difference between Inheritance and Composition?
+What is the difference between coupling and cohesion?
+What is a constructor in Java?
+What is the difference between Class and Object in Java or OOP?
+What is the difference between Inheritance and Polymorphism in Java?
+What are SOLID Design Principles? Explain any three of them
+What is the difference between Factory and Abstract Factory design patterns?
+What is the difference between Overloading, hiding, shadowing and Overriding in OOP?
+What is the difference between instance and object in Java?
+What is the difference between static and dynamic binding in Java?
+What are SOLID Object-oriented principles?
+Difference between Abstract Class and Interface in Java?
+Difference between private, protected, and public modifiers in Java?
+What is constructor chaining?
+Difference between pass by value and pass by reference?
+Difference between abstraction and encapsulation?
+Difference between association, composition, and aggregation?
+Can you explain Open Closed Design Principle?
+What is an Observer design pattern? When should you use it?
+What is the difference between hiding and shadowing in OOP?
+Can you override a static method in Java?
+What is the difference between state and strategy design patterns?
+What is the difference between a class and an instance?
+What is the difference between Factory and Abstract Factory design patterns?
+What is the difference between Dependency injection and Factory Pattern?
+What is method overloading in OOP or Java?
+What is the method overriding in OOP or Java?
+Is Java a pure object-oriented language? if not why?
+What are the rules of method overloading and overriding in Java?
+The difference between method overloading and overriding?
+Can we overload a static method in Java?
+Can we override the static method in Java?
+Can we override a private method in Java?
+What is the covariant method overriding in Java?
+Can we change the argument list of an overriding method?
+Can we override a method that throws runtime exception without throws clause?
+Can we override the final method in Java?
+What is the default method of Java 8?
+What is an abstract class in Java?
+What is an interface in Java? What is the real use of an interface?
+What are the differences between Abstract class and interface?
+Can we make a class abstract without an abstract method?
+Can we make a class both final and abstract at the same time?
+Can we overload or override the main method in Java?
+What problem is solved by the Strategy pattern in Java?
+Which OOP concept Decorator design Pattern is based upon?
+When to use the Singleton design pattern in Java?
+What is the difference between State and Strategy Patterns?
+What is the difference between Association, Aggregation, and Composition in OOP?
+What is the difference between Decorator, Proxy, and Adapter patterns in Java?
+What is the difference between Composition and Inheritance in OOP?

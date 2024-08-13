@@ -13,3 +13,53 @@ Write a SQL query to find the second highest salary in an employee table.
 What is a deadlock in database systems? How can it be prevented?
 Explain the difference between DELETE, TRUNCATE, and DROP commands in SQL.
 What is an ORM? What are its advantages and potential drawbacks?
+What is a Database Schema and Why is It Important?
+Explain the Difference Between a Primary Key and a Foreign Key.
+What is CRUD Operations?
+What are the Different Types of Joins and How do They Work?
+How to Ensure Data Integrity in a Relational Database?
+Explain the Difference Between OLTP and OLAP Databases.
+What are the ACID Properties in a Database and Why are They Important?
+Describe the Process of ETL (Extract, Transform, Load).
+What is a Data Warehouse and How is it Different from a Traditional Database?
+How to Handle Data Migration Between Different Databases?
+What is a Relational Database and How does It Differ from a NoSQL Database?
+Explain the Importance of Data Normalization.
+How to Perform Data Cleaning and Preprocessing?
+What are the Common SQL Functions Used for Data Aggregation?
+Describe the Process of Connecting a Database to a Data Analysis Tool.
+Explain the Concept of Database Transactions and Their Importance in Application Development.
+How to Optimize Database Queries for Performance?
+What are Stored Procedures and When would we Use Them?
+Describe the Process of Database Normalization and Denormalization.
+How to Handle Concurrent Data Access and Prevent Deadlocks?
+Explain the Concept of Database Indexing and its Importance in Query Performance.
+What are the Different types of Database Partitioning and When would we Use Each Type?
+Describe the Role of a Data Lake in a Big Data Architecture.
+How to Ensure Data Quality and Integrity During Data Ingestion?
+What are the Common Data Storage Formats Used in Big Data Processing?
+How to Join Multiple Tables to Create a Comprehensive Dataset for Analysis?
+Explain the Concept of Window Functions and Their Applications.
+How to Handle Missing Data in a Database?
+Describe the Process of Feature Engineering using SQL.
+What are the Performance Considerations When Qerying Large Datasets?
+How to Design a Database Schema for a Highly Scalable Web Application?
+Explain the Use of Caching Strategies to Improve Database Performance.
+Describe the Process of Implementing Database Security and Encryption.
+How to Handle Database Migrations in a Continuous Deployment Environment?
+What Are the Best Practices for Database Testing and Ensuring Data Consistency?
+Explain the Concept of Data Replication and Its Importance in a Distributed Database System.
+How to Design a Database for High Availability and Disaster Recovery?
+Describe the Architecture of a NoSQL Database and Its Use Cases.
+Use cases: Social networks, recommendation engines.39. What Are the Best Practices for Optimizing ETL Processes in a Large-Scale Data Environment?
+How Do You Handle Real-Time Data Streaming and Processing?
+How to Design a Scalable and High-Performance Database for an E-Commerce Application?
+How to Diagnose and Resolve Slow Database Queries?
+What Are the Key Steps for Migrating Data From On-Premise to a Cloud Database?
+How to Implement a Backup and Recovery Strategy for a Mission-Critical Database?
+How to Ensure Data Consistency Across Multiple Distributed Databases?
+How to Manage Database Schema Changes to Minimize Downtime and Avoid Data Loss?
+How to Design a Database for Real-Time Analytics on Transactional Data?
+How to Secure Sensitive Data Within a Database?
+How to Optimize a Complex SQL Query, and What Was the Outcome?
+How to Implement a Logging Mechanism for Database Changes?
