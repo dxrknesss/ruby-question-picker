@@ -1,0 +1,20 @@
+What does HTTP stand for? Explain its role in web communication.
+Name and explain the main HTTP methods (verbs).
+What are the common HTTP status codes? Give examples of when you'd use 200, 201, 400, 404, and 500.
+Explain the difference between GET and POST requests.
+What is REST? How does it relate to HTTP?
+Describe the key principles of RESTful API design.
+What is the difference between stateless and stateful communication?
+Explain the concept of idempotency in HTTP methods. Which methods are idempotent?
+What is content negotiation in HTTP? How is it typically implemented?
+Describe the structure of an HTTP request and response.
+What are HTTP headers? Give examples of commonly used headers.
+Explain the concept of HATEOAS in REST. Why is it important?
+What is the difference between PUT and PATCH methods?
+How does caching work in HTTP? What headers are involved?
+Explain the concept of API versioning. Why is it important and how can it be implemented?
+What is Cross-Origin Resource Sharing (CORS)? Why is it necessary?
+Describe the OAuth 2.0 flow for API authentication.
+What are webhooks? How do they differ from typical API requests?
+Explain the concept of rate limiting in APIs. Why is it implemented?
+What is the difference between SOAP and REST?

@@ -1,0 +1,91 @@
+What is Ruby programming language?
+Who is the developer of Ruby?
+What are class libraries in Ruby?
+List some features of Ruby?
+Name some operators used in Ruby?
+What are Ruby variables?
+What is the difference between nil and false in Ruby?
+Explain Ruby data types.
+What is the use of load and require in Ruby?
+Explain while loop in Ruby?
+Explain break statement in Ruby?
+Explain redo statement in Ruby?
+Explain retry statement in Ruby?
+How will you comment in Ruby?
+Define Ruby methods?
+How to create Ruby object?
+How to use Ruby methods?
+In how many ways a block is written in Ruby?
+What is yield statement in Ruby?
+Explain Ruby module?
+Explain module mixins in Ruby?
+Explain ampersand parameter (&block) in Ruby?
+Explain Ruby strings?
+How to access Ruby strings elements in an application?
+How to write multiline string in Ruby?
+What is concatenating string in Ruby. In how many ways you can create a concatenating string?
+What is the use of global variable $ in Ruby?
+In how many ways you can compare Ruby string?
+What are Ruby arrays and how they can be created?
+What are class libraries in Ruby?
+In how many ways items can be added in an array in Ruby?
+How to access Ruby array elements? How many methods are used to access Ruby elements.?
+Explain Ruby hashes?
+How to create a new time instance in Ruby?
+Explain Ruby ranges. What are the ways to define ranges?
+What are Ruby iterators?
+How many iterators are there in Ruby?
+How to open a file in Ruby?
+How to read a file in Ruby?
+What is sysread method in Ruby?
+How will you rename and delete a file in Ruby?
+How to check whether a directory exist or not in Ruby?
+Explain Ruby exceptions?
+What are some built-in Ruby class exceptions?
+How an exception is handled in Ruby?
+Explain the use of retry statement in Ruby?
+Explain the use of ensure statement in Ruby?
+What is the difference between calling super and calling super()?
+Explain each of the following operators and how and when they should be used: ==, ===, eql?, equal?
+In Ruby code, you quite often see the trick of using an expression like array.map(&:method_name) as a shorthand form of array.map { |element| element.method_name }. How exactly does it work?
+Write a single line of Ruby code that prints the Fibonacci sequence of any length as an array?
+Why Ruby Is Known As A Language Of Flexibility?
+Mention What Is The Difference Between A Gem And A Plugin In Ruby?
+Explain About Garbage Collection Feature Of Ruby?
+Explain About Float, Dig And Max?
+What Is The Use Of Interpolation In Ruby?
+What Is The Use Of Load And Require In Ruby?
+Explain About Ruby Code Blocks?
+What Is Rails?
+How Does Ruby Deal With Extremely Large Numbers?
+Explain About Class Variable And Global Variable?
+Explain About Ruby Names?
+Explain About Normal Method Class?
+Explain About The Command Line Options?
+Mention What Is The Difference Between Procs And Blocks?
+Explain How Can We Define Ruby Regular Expressions?
+Mention What Is The Command To Create A Migration?
+How Would You Create Getter And Setter Methods In Ruby?
+How Does A Symbol Differ From A String?
+What Are The Three Levels Of Method Access Control For Classes And What Do They Signify? What Do They Imply About The Method?
+Explain Some Of The Looping Structures Available In Ruby?
+What Is The Difference Between A Class And A Module?
+Name the three levels of access control for Ruby methods?
+What are some advantages of using Ruby?
+How would you freeze an object in Ruby? Can you provide a simple example?
+Ruby provides four types of variables. List them and provide a brief explanation for each?
+Can you explain the role of thread pooling in relation to the thread lifecycle in Ruby?
+Can you explain how Ruby looks up a method to invoke?
+What are blocks and procs?
+Predict the output of the code below. Explain your answer?
+The .upcase and .capitalize method are used for capitalizing the whole string.
+What is the use of .capitalize method?
+What is the difference between Array#map and Array#each?
+How do you remove nil values in array using ruby?
+What is the value of the variable upcased in the below piece of code?
+What is the difference between the Object methods clone and dup?
+What is the difference between extend and include in ruby?
+How many types of variables are used in Ruby and what are they?
+Describe a closure in Ruby?
+How does Ruby on Rails use the Model View Controller (MVC) framework?
+What is the difference between throw/catch and raise/rescue?

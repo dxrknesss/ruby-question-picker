@@ -1,0 +1,15 @@
+What are the four main principles of Object-Oriented Programming?
+Explain the concept of encapsulation in OOP. Why is it important?
+What is the difference between inheritance and composition? When would you use each?
+What is polymorphism? Provide an example of how it can be used in practice.
+Explain the difference between method overloading and method overriding.
+What does the acronym SOLID stand for in programming?
+Explain the Single Responsibility Principle. How does it improve code design?
+What is the Open/Closed Principle? Provide an example of how to apply it.
+Describe the Liskov Substitution Principle. Why is it important for maintaining inheritance hierarchies?
+What is the Interface Segregation Principle? How does it relate to class design?
+Explain the Dependency Inversion Principle. How does it promote loose coupling?
+How do SOLID principles relate to code maintainability and scalability?
+What is an abstract class? How does it differ from an interface?
+Explain the concept of "is-a" vs "has-a" relationships in OOP.
+What are design patterns? Can you name and briefly explain a few common ones?

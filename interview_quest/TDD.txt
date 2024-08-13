@@ -1,0 +1,15 @@
+What is unit testing, and why is it important in software development?
+Explain the concept of Test-Driven Development (TDD). What are its main steps?
+What is the difference between unit tests and integration tests?
+What are mocks and stubs in testing? When would you use each?
+Explain the "Arrange-Act-Assert" pattern in unit testing.
+What is code coverage? How does it relate to the quality of unit tests?
+What are some common testing frameworks for your preferred programming language?
+How do you test edge cases and error conditions in your unit tests?
+What is the purpose of a test suite? How do you organize your tests?
+Explain the concept of "red-green-refactor" in TDD.
+How do you ensure your unit tests are independent and isolated?
+What are some benefits and potential drawbacks of TDD?
+How would you unit test a method that relies on external dependencies?
+What is a test double? Can you name different types of test doubles?
+How do you balance between writing tests and writing production code?
