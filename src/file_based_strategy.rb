@@ -8,6 +8,7 @@ class FileBasedStrategy
     @directory_name = dir
     @dir_files = Dir.children(dir)
 
+    raise 'Directory is empty!' if @dir_files.empty?
     @dir_files.each do |file_name|
       unless file_name.end_with? '.txt'
         raise 'Invalid file extension!'
@@ -37,15 +38,18 @@ class FileBasedStrategy
 
     p "#{@dir_files.length} reading ractors are going to be created"
     readers = @dir_files.each.map do |question_file_name|
-      Ractor.new(@directory_name, question_file_name) do |dir_name, file_name|
+      file_name_with_dir = "#{@directory_name}/#{question_file_name}"
+      raise 'File is empty!' if File.size(file_name_with_dir) == 0
+
+      Ractor.new(file_name_with_dir) do |absolute_file_name|
         questions = {}
-        theme_name = file_name.split('.')[0]
-        file_name_with_dir = "#{dir_name}/#{file_name}"
+        relative_file_name = absolute_file_name.split("/")[-1]
+        theme_name = relative_file_name.split('.')[0]
         questions[theme_name] = []
 
-        File.foreach(file_name_with_dir, chomp: true) do |line|
-          question_text = line.split("'").join('_')
-          questions[theme_name] << Question.new(question_text, file_name)
+        File.foreach(absolute_file_name, chomp: true) do |line|
+          question_text = line.split("'").join("\'")
+          questions[theme_name] << Question.new(question_text, relative_file_name)
         end
 
         questions
