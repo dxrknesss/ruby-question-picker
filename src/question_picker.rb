@@ -42,7 +42,7 @@ class QuestionPicker
     if @question_bank.empty?
       raise 'Question bank is empty! First add some questions to it!'
     else
-      @available_questions [theme_name] = @question_bank[theme_name]
+      @available_questions[theme_name] = @question_bank[theme_name]
     end
   end
 
