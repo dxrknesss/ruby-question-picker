@@ -35,7 +35,6 @@ class QuestionPicker
           @question_bank.merge!(questions)
         end
       end
-      # p "question bank: #{@question_bank}"
     end
   end
 

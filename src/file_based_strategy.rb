@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require_relative 'writing_ractor_pool'
 require_relative 'question'
 require 'fileutils'
 
